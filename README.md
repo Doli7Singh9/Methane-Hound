@@ -49,9 +49,6 @@ MQ-4 Sensor → ESP32 (FreeRTOS) → Firebase Cloud → Python Analytics → Hea
 - Multi-gas detection
 - Wind-aware gas source localization
 
-## Repository Structure
-See folder structure above.
-
 ## License
 MIT License
 
